@@ -71,7 +71,6 @@ Simply open index.html in your browser.
 OR use VS Code Live Server.
 
 🧠 Concepts Practiced
-<br>
 <ul>
    <li>DOM Manipulation </li>
     <li>Event Listeners </li>
